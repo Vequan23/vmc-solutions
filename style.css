@@ -13,7 +13,7 @@ html {
 
 body {
   background: #ccc;
-  margin: 30px 50px;
+  margin: 30px 150px;
   line-height: 1.4;
 }
 
@@ -161,6 +161,10 @@ footer {
       "top-box-a top-box-b";
   }
 
+  body {
+    margin: 30px 50px;
+  }
+
   .showcase h1 {
     font-size: 2.5rem;
   }
@@ -186,5 +190,9 @@ footer {
       "showcase"
       "top-box-a "
       "top-box-b";
+  }
+
+  body {
+    margin: 30px 50px;
   }
 }
